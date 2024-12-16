@@ -1,4 +1,6 @@
 # Assignments Repository
+Author: Myles Henehan
+*****************
 ### This repository contains the 4 assignments due for the Programming for Data Analytics module. They are as follows:
 1. assignment_2_weather: this involves reading in a CSV, extracting the data on temperature from the data set, and plotting it over time.
 2. assignment_3_pie: this involves reading in a CSV directly from a URL, and creating a pie chart of the email domains contained in the data set.
