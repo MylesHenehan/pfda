@@ -1,0 +1,34 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon files (when copying files to a volume)
+._*
+
+# Thumbnails
+Thumbs.db
+.DS_Store?
+
+# macOS Finder preferences
+.DS_Store
+.metadata_never_index
+
+# Spotlight
+.Spotlight-V100
+.Trashes
+
+# Volume-related system files
+.VolumeIcon.icns
+.fseventsd
+.TemporaryItems
+.apdisk
+
+# Swap and sleep image files
+.swapfile
+.sleepimage
+
+# macOS crash reports and logs
+*.crash
+*.diag
+*.plist
