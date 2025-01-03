@@ -6,3 +6,7 @@
 5. Predictive trends.
 6. Other metrics worth exploring.
 
+Ongoing list of References:
+- https://careerfoundry.com/en/blog/data-analytics/open-data-sources/ (Looking for open data sources).
+- data.europa.eu The official portal for European data.
+- https://www.kaggle.com/datasets/mysterymeatie/protests-from-1990-to-march-2020/data
