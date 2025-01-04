@@ -4,12 +4,13 @@
 3. Summarise the data set and variables
 4. Basic analysis - mean, interesting data.
 - Number of annual protests (line plot)
-- Global protests by region (pie chart) - compare 90s and 00s to 10s.
-- Pie chart of reasons behind protest per decade.
+- Global protests by region (pie chart)
+- Pie chart of reasons behind protest.
+- Line plot of reasons over time.
 - Ireland in that period.
 - Line plot with line per reason of protest in Ireland.
--  
-
+-  Length of protests (concatenate dates)
+- correlations with other datasets (perhaps GHI)
 
 5. Predictive trends.
 6. Other metrics worth exploring.
