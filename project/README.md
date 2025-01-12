@@ -65,16 +65,16 @@ This project provides a framework for researchers and policymakers to:
 - Performing region-specific or country-specific deep dives.
 - Incorporating data for 2020 and beyond to account for the impact of COVID-19 on protests.
 
-***
 
-List of References:
-- https://careerfoundry.com/en/blog/data-analytics/open-data-sources/ (Accessed 26 December 2024).
-- https://www.kaggle.com/datasets/mysterymeatie/protests-from-1990-to-march-2020/data (Accessed 2 January 2025)
-- Clark, David; Regan, Patrick, 2016, "Mass Mobilization Protest Data", https://doi.org/10.7910/DVN/HTTWYL, Harvard Dataverse, V5, UNF:6:F/k8KUqKpCa5UssBbL/gzg== [fileUNF] (Accessed 3 January 2025)
-- https://www.geeksforgeeks.org/boolean-indexing-in-pandas/ (Accessed 3 January 2025)
-- https://favtutor.com/articles/convert-pandas-series-to-dataframe/ (Accessed 3 January 2025)
-- https://www.datacamp.com/tutorial/python-round-to-two-decimal-places (Accessed 12 January 2025)
-- https://www.kaggle.com/code/nargisbegum82/step-by-step-ml-linear-regression
-- https://proclusacademy.com/blog/customize_matplotlib_piechart/
-- https://www.datacamp.com/tutorial/pandas-sort-values?utm_source=google&utm_medium=paid_search&utm_campaignid=19589720824&utm_adgroupid=157156376311&utm_device=c&utm_keyword=&utm_matchtype=&utm_network=g&utm_adpostion=&utm_creative=726015683493&utm_targetid=dsa-2218886984100&utm_loc_interest_ms=&utm_loc_physical_ms=9197253&utm_content=&utm_campaign=230119_1-sea~dsa~tofu_2-b2c_3-row-p2_4-prc_5-na_6-na_7-le_8-pdsh-go_9-nb-e_10-na_11-na-jan25&gad_source=1&gclid=CjwKCAiA7Y28BhAnEiwAAdOJUGLgHgAAxvWLYXa8VglE5eQeU_Aek6ssoVyr3tnttGscpmGmLSAicBoC56sQAvD_BwE
-- OpenAI (ChatGPT)
+## **List of References:**
+***
+- CareerFoundry, 2024. Open Data Sources. Available at: https://careerfoundry.com/en/blog/data-analytics/open-data-sources/ (Accessed: 26 December 2024).
+- Clark, D. and Regan, P., 2016. Mass Mobilization Protest Data. Harvard Dataverse. Available at: https://doi.org/10.7910/DVN/HTTWYL (Accessed: 3 January 2025).
+- DataCamp, 2025. Python: Round to Two Decimal Places. Available at: https://www.datacamp.com/tutorial/python-round-to-two-decimal-places (Accessed: 12 January 2025).
+- DataCamp, 2025. Pandas Sort Values. Available at: https://www.datacamp.com/tutorial/pandas-sort-values?utm_source=google&utm_medium=paid_search&utm_campaignid=19589720824&utm_adgroupid=157156376311&utm_device=c&utm_keyword=&utm_matchtype=&utm_network=g&utm_adpostion=&utm_creative=726015683493&utm_targetid=dsa-2218886984100&utm_loc_interest_ms=&utm_loc_physical_ms=9197253&utm_content=&utm_campaign=230119_1-sea~dsa~tofu_2-b2c_3-row-p2_4-prc_5-na_6-na_7-le_8-pdsh-go_9-nb-e_10-na_11-na-jan25&gad_source=1&gclid=CjwKCAiA7Y28BhAnEiwAAdOJUGLgHgAAxvWLYXa8VglE5eQeU_Aek6ssoVyr3tnttGscpmGmLSAicBoC56sQAvD_BwE (Accessed: 12 January 2025).
+- GeeksforGeeks, 2025. Boolean Indexing in Pandas. Available at: https://www.geeksforgeeks.org/boolean-indexing-in-pandas/ (Accessed: 3 January 2025).
+- FavTutor, 2025. Convert Pandas Series to DataFrame. Available at: https://favtutor.com/articles/convert-pandas-series-to-dataframe/ (Accessed: 3 January 2025).
+- Kaggle, 2025. Protests from 1990 to March 2020 Dataset. Available at: https://www.kaggle.com/datasets/mysterymeatie/protests-from-1990-to-march-2020/data (Accessed: 2 January 2025).
+- Kaggle, 2025. Step-by-Step ML: Linear Regression. Available at: https://www.kaggle.com/code/nargisbegum82/step-by-step-ml-linear-regression (Accessed: 12 January 2025).
+- OpenAI, 2025. ChatGPT. Available at: https://openai.com/chatgpt (Accessed: 12 January 2025).
+- Proclus Academy, 2025. Customize Matplotlib Pie Chart. Available at: https://proclusacademy.com/blog/customize_matplotlib_piechart/ (Accessed: 12 January 2025).
