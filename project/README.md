@@ -76,10 +76,11 @@ This project provides a framework for researchers and policymakers to:
 - FavTutor, 2025. Convert Pandas Series to DataFrame. Available at: https://favtutor.com/articles/convert-pandas-series-to-dataframe/ (Accessed: 3 January 2025).
 - GeeksforGeeks, 2025. Boolean Indexing in Pandas. Available at: https://www.geeksforgeeks.org/boolean-indexing-in-pandas/ (Accessed: 3 January 2025).
 - GeeksforGeeks, 2025. Change the X or Y ticks of a Matplotlib figure. Available at: https://www.geeksforgeeks.org/change-the-x-or-y-ticks-of-a-matplotlib-figure/ [Accessed 12 January 2025].
-- Kaggle, 2025. Protests from 1990 to March 2020 Dataset. Available at: https://www.kaggle.com/datasets/mysterymeatie/protests-from-1990-to-march-2020/data (Accessed: 2 January 2025).
+- Luo, S., 2024. Protests from 1990 to March 2020 Dataset. Available at: https://www.kaggle.com/datasets/mysterymeatie/protests-from-1990-to-march-2020/data (Accessed: 2 January 2025).
 - Kaggle, 2025. Step-by-Step ML: Linear Regression. Available at: https://www.kaggle.com/code/nargisbegum82/step-by-step-ml-linear-regression (Accessed: 12 January 2025).
 - Matplotlib, 2024. Pie and Donut Labels. Available at: https://matplotlib.org/stable/gallery/pie_and_polar_charts/pie_and_donut_labels.html (Accessed: 3 January 2025).
 - OpenAI, 2025. ChatGPT. Available at: https://openai.com/chatgpt (Accessed: 12 January 2025).
 - Proclus Academy, 2025. Customize Matplotlib Pie Chart. Available at: https://proclusacademy.com/blog/customize_matplotlib_piechart/ (Accessed: 12 January 2025).
 - Python Graph Gallery, 2021. Line chart with dual Y-axis in Matplotlib. Available at: https://python-graph-gallery.com/line-chart-dual-y-axis-with-matplotlib/#:~:text=The%20first%20axis%20has%20a,twinx()%20.&text=As%20can%20be%20seen%20above,goes%20from%204%20to%2020 [Accessed 8 January 2025].
+- Scikit-learn. (n.d.) Model selection. Available at: https://scikit-learn.org/stable/model_selection.html (Accessed: 12 January 2025).
 - V-Dem Institute, 2025. V-Dem Dataset Version 14. Available at: https://v-dem.net/data/the-v-dem-dataset/ (Accessed: 2 January 2025).
