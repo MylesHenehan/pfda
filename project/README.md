@@ -1,5 +1,7 @@
 # **Analyzing Global Protests and Democracy Since 1990**
+
 Author: Myles Henehan, Atlantic Technological University
+
 Module: Programming for Data Analytics
 
 ## Introduction
